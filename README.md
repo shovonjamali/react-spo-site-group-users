@@ -23,7 +23,7 @@ This web-part can be used to add group members in a modern SharePoint page.
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+react-site-group-users | Jobaidul Alam Jamali
 
 ## Version history
 
